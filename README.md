@@ -1,1 +1,1 @@
-  through , learning, and continuous .
+  through , learning, and  .
