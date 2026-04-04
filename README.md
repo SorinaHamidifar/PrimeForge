@@ -1,1 +1,1 @@
-  through , learning, and  .
+  through , 
