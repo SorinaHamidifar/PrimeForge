@@ -17,7 +17,7 @@ from core.improvement import ImprovementEngine
 
 def run():
     print("🔥 IdeaSmith Activated")
-    print("🧪 Experimentation | 📚 Learning | 🔄 Continuous Improvement\n")
+    print("🧪 Experimentation | 📚 Learning | 🔄 learning Continuous Improvement\n")
 
     forge = ExperimentForge()
     improve = ImprovementEngine()
