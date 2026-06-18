@@ -11,7 +11,7 @@
 Main entry point for IdeaSmith.
 """
 
-from core.experiment import ExperimentFor
+from core.experiment import ExperimentForges
 from core.improvement import ImprovementEngine
 
 
