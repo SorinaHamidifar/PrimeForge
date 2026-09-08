@@ -1,7 +1,7 @@
 # ==========================================
 # Project: IdeaSmith
 # Description:
-# A place where raw ideas are forged into
+# A place where raw ideas are forged into polis
 # through experimentation, learning, and continuous improvement.
 # ==========================================
 
